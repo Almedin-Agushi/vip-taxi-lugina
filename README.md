@@ -20,3 +20,7 @@ Website per sherbime transporti VIP, i realizuar me WordPress.
 
 ## Autori
 Almedin Agushi
+
+## Pamje nga projekti
+
+![VIP Taxi Lugina - Ballina](vip-taxi-lugina-homepage.png)
